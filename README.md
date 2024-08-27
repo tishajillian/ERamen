@@ -9,4 +9,4 @@ The ERamen website is developed to enhance user interaction and improve service.
 - Contact Us: Features a contact form for customer inquiries, collecting essential information such as name, email, phone number, and preferences, while ensuring user agreement to receive newsletters.
 
 <b>Technology Used</b>
-ERamen is built using HTML, CSS, and JavaScript, focusing solely on front-end development to implement effective design concepts for a good user interface, ensuring a seamless user experience across various devices.
+- ERamen is built using HTML, CSS, and JavaScript, focusing solely on front-end development to implement effective design concepts for a good user interface, ensuring a seamless user experience across various devices.
