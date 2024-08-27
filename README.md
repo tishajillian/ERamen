@@ -1,4 +1,4 @@
-<h1>ERamen: Brings Authentic Ramen to Your Fingertips</h1>
+<h1>ERamen: Brings Authentic Ramen to Your Fingertips 🍜</h1>
 
 The ERamen website is developed to enhance user interaction and improve service. It includes a modern design that reflects the authentic spirit of ERamen while ensuring ease of navigation and accessibility across all devices. The website prototype was developed using Figma, and the final implementation focuses on delivering a responsive and user-friendly interface.
 
